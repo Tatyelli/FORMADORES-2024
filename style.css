@@ -6,4 +6,7 @@ section {
     background: rgb(196, 255, 254);
     padding-bottom: 80px;
     padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
+
